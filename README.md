@@ -1,2 +1,3 @@
 # projetoTabNews
-projeto para aprender 
+
+projeto para aprender
